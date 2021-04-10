@@ -24,6 +24,7 @@ snippets of our game
 ## Acknowledgments
 
 Raviteja Vemulapalli (ravitejavemu@google.com)
+
 Aseem Agarwala (aseemaa@google.com)
 
 
