@@ -8,5 +8,8 @@ The game is built using Tensorflow, Keras, CNN, HTML, JavaScript and CSS.
 
 ## Starting the project on your local machine 
 
+-> Install all the files of 
+
+snippets of our game
 ![home page](https://user-images.githubusercontent.com/64356997/114279782-f9de7180-9a53-11eb-9fb9-efc90faf848e.jpeg)
 
