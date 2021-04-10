@@ -11,6 +11,8 @@ The game is built using Tensorflow, Keras, CNN, HTML, JavaScript and CSS.
   -> Install all the packages in requirement.txt file
 
   -> You will get a model.pt as output from running 
+  
+  -> Then run app.py in your localhost and enjoy the game
 
 snippets of our game
 
