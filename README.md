@@ -26,5 +26,13 @@ Raviteja Vemulapalli (ravitejavemu@google.com)
 
 Aseem Agarwala (aseemaa@google.com)
 
+## Contribution Guidelines
+If you want to contribute to our project you can fork our repository and commit to the new sub-branch.
+### Improvements required
+1) We have trained our model from the subset of the data provided in (https://ai.google/tools/
+datasets/google-facial-expression/), so utilizing more data may help model to get more reliable embeddings.
+
+2) Image augmentation also required, as the app we use takes feed from webcam and is of poor quality which is not exactly from the distribution model was trained on, so some image tranformation to webcam like images may help model to differentiate between expressions.
+
 
 
