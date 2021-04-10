@@ -11,5 +11,9 @@ The game is built using Tensorflow, Keras, CNN, HTML, JavaScript and CSS.
 -> Install all the files of 
 
 snippets of our game
+
 ![home page](https://user-images.githubusercontent.com/64356997/114279782-f9de7180-9a53-11eb-9fb9-efc90faf848e.jpeg)
+
+![WhatsApp Image 2021-04-10 at 23 16 14](https://user-images.githubusercontent.com/64356997/114279987-dc5dd780-9a54-11eb-8dd9-86e3987ea936.jpeg)
+
 
