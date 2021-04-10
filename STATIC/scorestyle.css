@@ -1,0 +1,89 @@
+/*Scorecard*/
+
+@import url(https://fonts.googleapis.com/css?family=Raleway|Varela+Round|Coda);
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: 'entypo', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.bg-image {
+    /* The image used */
+    background-image: url("Meme.jpeg");
+    /* Add the blur effect */
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* Position text in the middle of the page/image */
+
+.bg-text {
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+
+.login {
+    width: 342px;
+    overflow: hidden;
+    margin: 55px auto;
+    padding: 45px;
+    background-color: #191919;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    z-index: 2;
+    text-align: center;
+}
+
+.btn {
+    text-align: center;
+    width: 190px;
+    height: 45px;
+    border: 2px solid #2ecc71;
+    font-weight: bold;
+    border-radius: 0.5px;
+    padding-left: 8px;
+    border-radius: 20px;
+    background: none;
+    color: white;
+    font-size: 18px;
+}
+
+.btn:hover {
+    background-color: #2ecc71;
+    cursor: pointer;
+}
+
+.fl {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
