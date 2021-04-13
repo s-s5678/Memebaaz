@@ -4,7 +4,7 @@ Interested in memes? well we have got something intresting for you. Presenting t
  (https://www.youtube.com/watch?v=QIhjqoKItoI)
 ## Built on 
 
-The game is built using Tensorflow, Keras, CNN, HTML, JavaScript and CSS.
+The game is built using Tensorflow,Pytorch Keras, CNN, HTML, JavaScript and CSS.
 
 ## Starting the project on your local machine 
 
