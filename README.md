@@ -1,5 +1,5 @@
 ## Memposter
-Interested in memes? well we have got something intresting for you. Presenting to you Memposter, a ML based game were user has to copy the given expression and wil be rated on the basis of accuracy.
+Interested in memes? well we have got something intresting for you. Presenting to you Memposter, a ML based game where user has to copy the given expression and wil be rated on the basis of accuracy.
  # The video demo of this project can be found in
  (https://www.youtube.com/watch?v=QIhjqoKItoI)
 ## Built on 
